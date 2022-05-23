@@ -1,0 +1,17 @@
+footer{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.menu_buton {
+    background-color: #4BA7DB;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    text-decoration: none;
+}
+.menu_buton_item{
+    padding-top: 10px;
+
+}
